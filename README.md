@@ -1,3 +1,4 @@
 # demo-repo
-this is my demo repo to learn github
-My name is Pushpender
+This is my demo repo to learn GitHub.
+<br>
+My name is Pushpender.
